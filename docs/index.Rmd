@@ -1,5 +1,5 @@
 ---
-title: "INFO-201: Class Demo"
+title: "INFO-201: Class Demo -- Next Day"
 author: "Jim Skrivan"
 date: "2/8/2022"
 output: html_document
