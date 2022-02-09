@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Covid Report
 From the New York Times Covid-9 data as of Feb 7, 2022, there are 
 `r get_total_cases()` cases in the United States. And the total number of 
-deaths is `r get_total_deaths()`. 
+deaths is `r get_total_deaths()`. Further updates TBD.
 
 Cumulative U.S. cases are shown in this chart:
 ``` {r echo=FALSE}
